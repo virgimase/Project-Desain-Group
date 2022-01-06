@@ -1,7 +1,7 @@
 <h3>Project-Desain-Group<h3>
 
 <p>
-<h3>Team ABC</h3>
+<h3>Team SuperSaiyanID</h3>
 Anggota Team:
 <ol>
   <li>Paulina Aquileia Neldi (Koordinator)</li>
