@@ -1,4 +1,4 @@
-Project-Desain-Group
+<h3>Project-Desain-Group<h3>
 
 <p>
 <h3>Team ABC</h3>
@@ -19,23 +19,18 @@ Anggota Team:
 <ol>
   <li>
     Paulina Aquileia Neldi
-    <br>Page Utama dan page xxx
   </li>
   <li>
     I Kadek Maha Gangga
-    page xxx
   </li>
   <li>
     I Putu Adi Widana
-    page xxx
   </li>
   <li>
    Virgilus Rinardi Mase
-    page xxx
   </li>
   <li>
     I Wayan Asudarmika Putra
-    page xxx
   </li>
 </ol>
   
