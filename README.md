@@ -19,18 +19,23 @@ Anggota Team:
 <ol>
   <li>
     Paulina Aquileia Neldi
+    Pages Utama,aboutUS,Comingsoon
   </li>
   <li>
     I Kadek Maha Gangga
+    Dashboard
   </li>
   <li>
     I Putu Adi Widana
+    Blog
   </li>
   <li>
    Virgilus Rinardi Mase
+    Register,safe-menu
   </li>
   <li>
-    I Wayan Asudarmika Putra
+    I Wayan sudarmika Putra
+    Search Menu
   </li>
 </ol>
   
